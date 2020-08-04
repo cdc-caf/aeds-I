@@ -1,0 +1,3 @@
+[submodule "src/ordenacao"]
+	path = src/ordenacao
+	url = https://github.com/gegen07/sorting-algorithms.git
